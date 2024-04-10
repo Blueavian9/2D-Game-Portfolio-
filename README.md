@@ -1,6 +1,6 @@
 Developer portfolio that's a 2D game
 Inspired by the many creative 3D developer portfolios, I create one that's 2D instead. This is meant as a template that you can use to build your own. It works on both desktop and mobile.
-<img src="/JSLegendDev/2d-portfolio-kaboom/raw/master/developerportfoliothubnail.png" alt="A screenshot of the project" style="max-width: 100%;"> == $0
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2024/04/gamedev.png" alt="A screenshot of the project" style="max-width: 100%;"/> == $0
 A screenshot of the project
 
 Live Demo : https://jslegenddev.github.io/portfolio/
