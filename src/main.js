@@ -40,6 +40,8 @@ k.scene("main", async () => {
       isInDialogue: false,
     },
     "player",
+
+    
   ]);
 
   for (const layer of layers) {

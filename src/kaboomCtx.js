@@ -6,3 +6,4 @@ export const k = kaboom({
   canvas: document.getElementById("game"),
   debug: true, // set to false once ready for production
 });
+
